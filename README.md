@@ -14,3 +14,5 @@ using JsonWebTokens and bcrypt.js. A No-SQL database i.e. Mongo DB is used to st
 Messages, etc. Mongoose, an Object-Document mapper is also employed to work as an abstraction over Mongo DB,
 which has helped in defining middlewares, population and validation. Mongo DB Atlas is used to deploy the 
 databases on cloud and similarly Cloudinary is used to deploy images on the cloud.
+
+Socket.io was used to relay real-time messages.
